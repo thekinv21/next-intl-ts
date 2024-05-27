@@ -1,0 +1,13 @@
+{
+	"Index_page": {
+		"title": "Hello index page!"
+	},
+
+	"about_page": {
+		"title": "Hello about page!"
+	},
+
+	"contact_page": {
+		"title": "Hello contact page!"
+	}
+}
