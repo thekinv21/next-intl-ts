@@ -26,10 +26,7 @@ Multi-language selection with Nextjs
 - [With i18n app router example](https://next-intl-docs.vercel.app/docs/getting-started/app-router/with-i18n-routing)
 
 - [Without i18n app router example](https://next-intl-docs.vercel.app/docs/getting-started/app-router/without-i18n-routing)
-
-#### My File Stracture
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+- 
 
 #### 1.STEP: create languages translate files
 
@@ -266,6 +263,9 @@ app/page.tsx
 
 ```
 
+![Ekran Resmi 2024-05-27 17 24 52](https://github.com/thekinv21/next-intl-ts/assets/92122363/835d1cfd-dfc0-4995-b1e6-5f69577ea2d7)
+
+
 `We have 2 layout.tsx and 2 page.tsx folders, 1.layout.tsx and 1.page.tsx folders inside [locale] folder another 2.layout.tsx and 2.page.tsx outside [locale] folder it is very important if you don't create outside or inside this layout and page folders, translation package next-intl is not working on our project`
 
 #### START PROJECT : `npm run dev || yarn run dev || pnpm run dev`
@@ -274,11 +274,12 @@ if you complete code correctly for documentation you will see this screens and N
 
 #### Overview : `if your default language is English you will see that screen: `
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+![Ekran Resmi 2024-05-27 18 18 05](https://github.com/thekinv21/next-intl-ts/assets/92122363/3998cb06-0690-419a-9d49-6dd6c5c7d1bc)
 
 #### Overview : `if your default language is Turkish you will see that screen: `
+![Ekran Resmi 2024-05-27 18 18 33](https://github.com/thekinv21/next-intl-ts/assets/92122363/7fa267bb-41e1-4cf3-a1da-2db1090bffa3)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 #### 7.STEP : CREATE Locale Switcher Component and Custom Hook for get Translations
 
@@ -572,4 +573,18 @@ app/[locale]/[...rest]/page.tsx
 
 ```
 
+File Stracture after adding custom not found page
+
+![Ekran Resmi 2024-05-27 19 51 02](https://github.com/thekinv21/next-intl-ts/assets/92122363/6d12fd23-1327-4821-a67c-fecce5a561a9)
+
+
+Result
+
+![Ekran Resmi 2024-05-27 19 52 04](https://github.com/thekinv21/next-intl-ts/assets/92122363/fd808b8b-4002-42e6-960e-17aaee6c9f6f)
+
+
+
+
 It is very important Steps for create CUSTOM Not found Page if you pass any steps your project gives SSR errors
+
+
