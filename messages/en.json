@@ -1,6 +1,17 @@
 {
 	"Index_page": {
-		"title": "Hello index page!"
+		"title": "Hello index page!",
+		"tr": "Turkish",
+		"en": "English",
+		"label": "Language",
+		"next_intl_multiple_languages": "Next.js with Internationalization and Multiple Languages",
+		"next_intl_multiple_languages_description": "This is a simple example of how to use Next.js with Internationalization and Multiple Languages.",
+		"learn": "Learn",
+		"learn_description": "Learn how to use Next.js with Internationalization and Multiple Languages.",
+		"templates": "Templates",
+		"templates_description": "Use templates to create your own Next.js with Internationalization and Multiple Languages.",
+		"deploy": "Deploy",
+		"deploy_description": "Deploy your Next.js with Internationalization and Multiple Languages to the cloud."
 	},
 
 	"about_page": {

@@ -1,6 +1,17 @@
 {
 	"Index_page": {
-		"title": "Merhaba başlangıç sayfası!"
+		"title": "Merhaba başlangıç sayfası!",
+		"tr": "Türkçe",
+		"en": "İngilizce",
+		"label": "Dil",
+		"next_intl_multiple_languages": "NextJs ile Çoklu dil desteği",
+		"next_intl_multiple_languages_description": "Bu örnek NextJs ile çoklu dil desteğini göstermektedir.",
+		"learn": "Öğren",
+		"learn_description": "Öğrenme kaynaklarına göz atın ve Next.js ile Çoklu dil desteği hakkında daha fazla bilgi edinin.",
+		"templates": "Şablonlar",
+		"templates_description": "Next.js ile Çoklu dil desteği için hazır şablonları inceleyin ve kullanmaya başlayın.",
+		"deploy": "Yayınlama",
+		"deploy_description": "Next.js ile Çoklu dil desteği uygulamanızı yayınlayın ve dünyanın her yerinden erişilebilir hale getirin."
 	},
 
 	"about_page": {
